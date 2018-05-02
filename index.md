@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Computer Science in Oakland
 
 You can use the [editor on GitHub](https://github.com/demc/csainoak.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
